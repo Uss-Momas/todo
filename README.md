@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 - Make sure to have the assets folder
 - and the pubspeck.yaml
 
-##Dependecies used
+## Dependecies used
 - google fonts
 - sqflite
 - path
